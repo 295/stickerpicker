@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ac-emot.json"
+  ],
+  "homeserver_url": "https://mozilla.modular.im"
+}
